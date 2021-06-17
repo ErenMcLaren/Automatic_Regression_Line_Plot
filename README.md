@@ -17,7 +17,7 @@ Please enter your y-values for the raw data >
 
 Feel free to make any modifications or use and abuse this code to your liking. I encourage you to feel free in copy/pasting the entire thing and using it for your own good.
 
-## References;
+## References:
 <li>
 <a id = "1">[1]</a>
  Sheather, Simon J. <i>A Modern Approach to Regression with R.</i> Springer, 2009.
