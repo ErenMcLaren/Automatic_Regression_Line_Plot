@@ -14,18 +14,18 @@ This program employs the method of least squares to obtain a functional form of 
 </li>
 
 ## Parenthetical:
-https://stackoverflow.com/a/327011 -> for math.sqrt(x) being faster than x^0.5 
-https://stackoverflow.com/a/42827330 -> for finding the "longest" list in another list
-https://stackoverflow.com/a/4690655 -> for how to access the error as "e"
-https://stackoverflow.com/a/3411435 -> for rounding a number to n
-https://stackoverflow.com/q/30281485 -> for typesetting LaTeX in Matplotlib 
-https://stackoverflow.com/a/2476868 -> for dealing with annoying LaTeX string parsing with Matplotlib
-https://stackoverflow.com/a/46664216 -> for future reference, consider using Pandas DF for simple Matplotlib tables
-https://stackoverflow.com/a/15514091 -> for why Matplotlib tables' fontsize is broken & need a workaround
-https://stackoverflow.com/a/46664216 -> for why and how on earth I need to color every table cell and column
-https://stackoverflow.com/a/38173860 -> for horizonally aligning text within Matplotlib table
-https://stackoverflow.com/a/17793421 -> for getting things in a dictionary in a for loop
-https://stackoverflow.com/a/30280874 -> for "generating" a dictionary in a for loop
-https://stackoverflow.com/a/46664216 -> for future reference, consider using Pandas DF for simple Matplotlib tables
-https://stackoverflow.com/a/15514091 -> for why Matplotlib tables' fontsize is broken & need a workaround
-https://stackoverflow.com/a/46664216 -> for why and how on earth I need to color every table cell and column
+For math.sqrt(x) being faster than x^0.5 -> https://stackoverflow.com/a/327011 
+For finding the "longest" list in another list -> https://stackoverflow.com/a/42827330
+For how to access the error as "e" -> https://stackoverflow.com/a/4690655
+For rounding a number to n -> https://stackoverflow.com/a/3411435 ->
+For typesetting LaTeX in Matplotlib  -> https://stackoverflow.com/q/30281485
+For dealing with annoying LaTeX string parsing with Matplotlib -> https://stackoverflow.com/a/2476868
+For future reference, consider using Pandas DF for simple Matplotlib tables -> https://stackoverflow.com/a/46664216
+For why Matplotlib tables' fontsize is broken & need a workaround -> https://stackoverflow.com/a/15514091
+For why and how on earth I need to color every table cell and column -> https://stackoverflow.com/a/46664216
+For horizonally aligning text within Matplotlib table -> https://stackoverflow.com/a/38173860
+For getting things in a dictionary in a for loop -> https://stackoverflow.com/a/17793421
+For "generating" a dictionary in a for loop -> https://stackoverflow.com/a/30280874
+For future reference, consider using Pandas DF for simple Matplotlib tables -> https://stackoverflow.com/a/46664216
+For why Matplotlib tables' fontsize is broken & need a workaround-> https://stackoverflow.com/a/15514091
+For why and how on earth I need to color every table cell and column -> https://stackoverflow.com/a/46664216
