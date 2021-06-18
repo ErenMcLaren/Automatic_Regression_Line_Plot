@@ -952,7 +952,7 @@ if __name__ == "__main__":
             if does_user_want_to_debug.lower() in array_of_possible_rejections:
                 debugging_on_or_off = False
         except:
-            print(f"There was an error understanding your input. Valid responses are: {', '.join(array_of_possible_confirmation)}")
+            print(f"There was an error understanding your input. Valid responses are: {', '.join(array_of_possible_confirmation)} or {', '.join(array_of_possible_confirmation)}")
             continue
         else:
             break
