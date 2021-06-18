@@ -15,7 +15,7 @@ Please enter your x-values for the raw data >
 Please enter your y-values for the raw data >
 ```
 
-Feel free to make any modifications or use and abuse this code to your liking. I encourage you to feel free in copy/pasting the entire thing and using it for your own good.
+Feel free to make any modifications or use and abuse this code to your liking. Feel free to copy/paste the entire thing and use it for your own good and/or pretend you wrote it. Seriously. I have no problems with it.
 
 ## References:
 <li>
